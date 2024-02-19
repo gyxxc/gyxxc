@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gyxxc from Nanjing, Jiangsu, China
+- 👋 Hi, I’m @gyxxc from China
 - 👀 I’m interested in maths and coding
 - 🌱 I’m currently learning Signals&Systems
 - 💞️ I’m looking for cooperators on Matlab and FPGA
-- 📫 How to reach me ...My mail addresses: ydfx415@gmail.com/ ydfx4_15@163.com
+- 📫 How to reach me ...My mail addresses: ydfx415@gmail.com
 
 <!---
 gyxxc/gyxxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
